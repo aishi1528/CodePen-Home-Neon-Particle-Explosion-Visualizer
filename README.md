@@ -16,6 +16,6 @@ A visually stunning particle explosion effect built with **HTML**, **CSS**, and 
 
 ## 🚀 Live Demo
 
-👉 [Check out the Live Demo]()
+👉 [Check out the Live Demo](https://aishi1528.github.io/CodePen-Home-Neon-Particle-Explosion-Visualizer/)
 
 ---
